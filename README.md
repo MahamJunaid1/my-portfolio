@@ -30,7 +30,7 @@ The planner supports adding tasks, priority, filtering, completion and deletion.
 
 Source repository: https://github.com/MahamJunaid1/my-portfolio
 
-The source is organised into three meaningful Git commits covering structure/assets, responsive styling/Bootstrap, and interactive demos/documentation. Vercel deployment and domain setup are separate steps and have not been completed. The contact email is still a placeholder and the contact form is a local demo.
+The source is tracked locally with Git and published through the signed-in GitHub browser account in descriptive commits covering source, images, Bootstrap fallback assets and project demos. Vercel deployment and domain setup are separate steps and have not been completed. The contact email is still a placeholder and the contact form is a local demo.
 
 ## Understanding the code
 
